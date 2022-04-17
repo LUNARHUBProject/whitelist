@@ -1,0 +1,14 @@
+{
+    "sql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "ro" 
+    },
+    "NameHub":"LUNAR HUB",
+    "MadeBy":"LOL",
+    "LOGOHUB":"https://cdn.discordapp.com/emojis/812333452123963412.gif?size=128&quality=lossless",
+    "phone":"",
+    "token":"tokenบอท",
+    "prefix":"/"
+}
